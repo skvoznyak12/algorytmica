@@ -10,7 +10,7 @@ void f1(int n) {
             cout << k << " "; 
             n /= k;          
         }
-        k++; // Przejdź do następnego potencjalnego dzielnika
+        k++; 
     }
     
     cout << endl;
