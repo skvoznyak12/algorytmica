@@ -2,7 +2,7 @@
 using namespace std;
 
 void f1(int n) {
-    int k = 2; // 
+    int k = 2;
     cout << "Czynniki pierwsze liczby " << n << ": ";
     
     while (n > 1) {
